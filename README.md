@@ -34,11 +34,6 @@
   - 프로젝트 기한 이후 데이터가 추가되어 코드를 실행해도 점수가 다르게 나옴
 
 ### 파일요약 
-#### godaddy_final.ipynb
-#### census_starter.csv
-#### sample_submission.csv
-#### test.csv
-#### 
 
 |파일 명|파일 내용|
 |:--:|:--:|
