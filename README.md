@@ -19,6 +19,9 @@
   - Blacklist CFIPS는 Kaggle Discussion에서 발견하여, 활용해 본 결과 성능이 더 높게 나와서 활용하기로 했음 
   - 시계열 데이터라고 판단되어 Timestamp, Lag 방식 이용
 - 모델 구현 
+  - XGBRegressor, LightGBM Regressor, CatBoostRegressor, HistGradientBoostingRegressor, Random forest regressor, 
+  Extra trees regressor, KNN, Linear Regression , DecisionTree regressor, Extra tree regressor
+    - 총 10개 모델 사용
 - 모델 최적화
   - 모델 최적화 할때 학습 성능 낮은 모델들을 스태킹 방식으로 합치고, 스태킹한 모델을 성능이 좋은 모델과 함께 보팅한 방식으로 접근
     - 자료 조사한 결과 스태킹은 학습 성능이 낮은 모델을 앙상블할때 쓰이고, 보팅은 학습 성능이 높은 모델을 앙상블할때 쓰임
