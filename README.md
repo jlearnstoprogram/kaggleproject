@@ -5,7 +5,6 @@
 
 #### 프로젝트 기한: 2023/01/31-2023/02/15
 
-
 ### 요건
 - SMAPE (대칭 평균 절대 오차 퍼센트) 예측 평가지표를 이용해 모델의 성능을 확인해야함
 - 데이터셋 출처: Kaggle
@@ -33,3 +32,18 @@
 - 다양한 모델을 이용한 앙상블 학습을 통해 최종 성능을 높임
 - 결과: 1.0846점대의 오차까지 줄임
   - 프로젝트 기한 이후 데이터가 추가되어 코드를 실행해도 점수가 다르게 나옴
+
+### 파일요약 
+#### godaddy_final.ipynb
+#### census_starter.csv
+#### sample_submission.csv
+#### test.csv
+#### 
+
+|파일 명|파일 내용|
+|:--:|:--:|
+| godaddy_final.ipynb | 코드 |
+| census_starter.csv | 캐글에서 제공한 인구조사 데이터 |
+| sample_submission.csv | 캐글에서 제공한 submission 양식 |
+| test.csv | 캐글에서 제공한 test 데이터 |
+| train.csv | 캐글에서 제공한 train 데이터 |
