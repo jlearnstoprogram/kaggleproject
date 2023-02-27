@@ -38,7 +38,8 @@
 |파일 명|파일 내용|
 |:--:|:--:|
 | godaddy_final.ipynb | 코드 |
+| train.csv | 캐글에서 제공한 train 데이터 |
+| test.csv | 캐글에서 제공한 test 데이터 |
 | census_starter.csv | 캐글에서 제공한 인구조사 데이터 |
 | sample_submission.csv | 캐글에서 제공한 submission 양식 |
-| test.csv | 캐글에서 제공한 test 데이터 |
-| train.csv | 캐글에서 제공한 train 데이터 |
+
